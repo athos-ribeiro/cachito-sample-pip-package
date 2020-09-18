@@ -4,19 +4,4 @@
 #
 #    pip-compile --allow-unsafe --no-build-isolation --output-file=requirements-build.txt requirements-build.in
 #
-attrs==20.2.0             # via pytest
 flexmock==0.10.4          # via -r requirements-build.in
-iniconfig==1.0.1          # via pytest
-more-itertools==8.5.0     # via pytest
-packaging==20.4           # via pytest
-pluggy==0.13.1            # via pytest
-py==1.9.0                 # via pytest
-pyparsing==2.4.7          # via packaging
-pytest==6.0.1             # via -r requirements-build.in
-setuptools-scm==4.1.2     # via -r requirements-build.in
-six==1.15.0               # via packaging
-toml==0.10.1              # via pytest
-wheel==0.35.1             # via -r requirements-build.in
-
-# The following packages are considered to be unsafe in a requirements file:
-setuptools==50.3.0        # via -r requirements-build.in, setuptools-scm

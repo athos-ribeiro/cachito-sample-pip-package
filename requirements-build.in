@@ -1,5 +1,1 @@
 flexmock
-pytest
-setuptools
-wheel
-setuptools_scm
