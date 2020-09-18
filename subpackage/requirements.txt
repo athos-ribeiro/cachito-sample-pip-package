@@ -12,4 +12,4 @@ responses==0.12.0         # via -r requirements.in
 six==1.15.0               # via responses
 urllib3==1.25.10          # via requests, responses
 # duplicating this here to force config file generation
-https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#cachito_hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc&egg=operator-manifest  # via -r requirements.in
+https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#cachito_hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc  # via -r requirements.in
